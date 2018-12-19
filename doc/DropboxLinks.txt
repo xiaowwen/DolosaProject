@@ -54,7 +54,7 @@ id  link
 6c  https://www.dropbox.com/s/8q4gs8ed402ef1n/6c.tar.gz
 6d  https://www.dropbox.com/s/scj26k6mm993nz9/6d.tar.gz
 6e  https://www.dropbox.com/s/hw1qy47i7j09t7s/6e.tar.gz
-6f  https://www.dropbox.com/s/hw1qy47i7j09t7s/6e.tar.gz
+6f  https://www.dropbox.com/s/60d8o4sa9tyqoen/6f.tar.gz
 6g  https://www.dropbox.com/s/27azeqqysziqyv0/6g.tar.gz
 6h  https://www.dropbox.com/s/xj7wfp8xgeh1pyo/6h.tar.gz
 6i  https://www.dropbox.com/s/k6wntb6en17z4q7/6i.tar.gz
@@ -79,3 +79,4 @@ id  link
 8h  https://www.dropbox.com/s/7q9qgmw1xljrzok/8h.tar.gz
 8i  https://www.dropbox.com/s/o5pmfzc5usxwdku/8i.tar.gz
 8j  https://www.dropbox.com/s/9lvvzu92x2a5auk/8j.tar.gz
+md5checksums    https://www.dropbox.com/s/tkxbb93lgzjjxod/md5checksums.txt
