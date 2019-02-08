@@ -4,28 +4,28 @@
 <h2>Pipeline Steps</h2>
 
 <ol>
-<li>Download Data</li>
-<li>Removal of Duplicates</li>
-<li>De novo assembly</li>
-<li>Remove Contamination</li>
-<li>Sequencing Quality Control</li>
-<li>Genome Annotation</li>
-<li>Reference Mapping</li>
-<li>SNP Calling and Annotation</li>
-<li>Indel Calling and Annotation<li>
-<li>Plotting with Circos</li>
-<li>Nucleotide Diversity</li>
-<li>Phylogenetic Analysis</li>
-<li>Structure Analysis</li>
-<li>Plotting with Fishplot</li>
-<li>Splitstree Analysis</li>
-<li>dN over dS Analysis</li>
-<li>Plotting Antibiotic Resistance </li>
-<li>Genome Wide Association Study</li>
-<li>Genes Mutated at least Twice</li>
-<li>Orthologous Analysis</li>
-<li>Depth of Coverage Analysis</li>
-<li>Plasmid Annotation</li>
+<li>[Download Data](https://github.com/juliofdiaz/DolosaProject/blob/master/notebook/1_DownloadData.ipynb)</li>
+<li>[Removal of Duplicates](https://github.com/juliofdiaz/DolosaProject/blob/master/notebook/2_RemoveDuplicates.ipynb)</li>
+<li>[De novo assembly](https://github.com/juliofdiaz/DolosaProject/blob/master/notebook/3_deNovoAssembly.ipynb)</li>
+<li>[Remove Contamination](https://github.com/juliofdiaz/DolosaProject/blob/master/notebook/4_RemoveContamination.ipynb)</li>
+<li>[Sequencing Quality Control]()</li>
+<li>[Genome Annotation]()</li>
+<li>[Reference Mapping]()</li>
+<li>[SNP Calling and Annotation]()</li>
+<li>[Indel Calling and Annotation]()</li>
+<li>[Plotting with Circos]()</li>
+<li>[Nucleotide Diversity]()</li>
+<li>[Phylogenetic Analysis]()</li>
+<li>[Structure Analysis]()</li>
+<li>[Plotting with Fishplot]()</li>
+<li>[Splitstree Analysis]()</li>
+<li>[dN over dS Analysis]()</li>
+<li>[Plotting Antibiotic Resistance]()</li>
+<li>[Genome Wide Association Study]()</li>
+<li>[Genes Mutated at least Twice]()</li>
+<li>[Orthologous Analysis]()</li>
+<li>[Depth of Coverage Analysis]()</li>
+<li>[Plasmid Annotation]()</li>
  
 
 </ol>
