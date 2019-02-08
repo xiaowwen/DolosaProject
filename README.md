@@ -5,8 +5,6 @@ The required software can be found in the directory bin. Unless explicitly menti
 
 ## Pipeline Steps
 
-[Lesson 1 - Intro to R and R-Studio: Becoming Friends with the R Environment](https://github.com/eacton/CAGEF/tree/master/Lesson_1)
-
 [Download Data](https://github.com/juliofdiaz/DolosaProject/blob/master/notebook/1_DownloadData.ipynb)
 
 [Removal of Duplicates](https://github.com/juliofdiaz/DolosaProject/blob/master/notebook/2_RemoveDuplicates.ipynb)
