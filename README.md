@@ -2,11 +2,30 @@
 <p>This repository provides a framework to replicate the bioinformatics analyses performed in the comparative genomics study of 80 <i>B. dolosa</i> recovered from a single patient. The bioinformatics pipelines can be found in the directory notebook. Each process is described in a jupyter notebook; these notebooks can be used in a local machine as long as the jupyter environment is installed with R, Python and Bash kernels. </p>
 <p>The required software can be found in the directory bin. Unless explicitly mentioned, the proper references for these programs can be found in the READ.md file in the bin directory. Otherwise, the code can be replicated as if the starting point was the main folder (DolosaProject).</p>
 <h2>Pipeline Steps</h2>
-<ul>
+
+<ol>
 <li>Download Data</li>
 <li>Removal of Duplicates</li>
 <li>De novo assembly</li>
 <li>Remove Contamination</li>
+<li>Sequencing Quality Control</li>
+<li>Genome Annotation</li>
+<li>Reference Mapping</li>
+<li>SNP Calling and Annotation</li>
+<li>Indel Calling and Annotation<li>
+<li>Plotting with Circos</li>
+<li>Nucleotide Diversity</li>
+<li>Phylogenetic Analysis</li>
+<li>Structure Analysis</li>
+<li>Plotting with Fishplot</li>
+<li>Splitstree Analysis</li>
+<li>dN over dS Analysis</li>
+<li>Plotting Antibiotic Resistance </li>
+<li>Genome Wide Association Study</li>
+<li>Genes Mutated at least Twice</li>
+<li>Orthologous Analysis</li>
+<li>Depth of Coverage Analysis</li>
+<li>Plasmid Annotation</li>
+ 
 
-
-</ul>
+</ol>
