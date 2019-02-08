@@ -5,46 +5,46 @@ The required software can be found in the directory bin. Unless explicitly menti
 
 ## Pipeline Steps
 
-[Download Data](https://github.com/juliofdiaz/DolosaProject/blob/master/notebook/1_DownloadData.ipynb)
+[01 Download Data](https://github.com/juliofdiaz/DolosaProject/blob/master/notebook/1_DownloadData.ipynb)
 
-[Removal of Duplicates](https://github.com/juliofdiaz/DolosaProject/blob/master/notebook/2_RemoveDuplicates.ipynb)
+[02 Removal of Duplicates](https://github.com/juliofdiaz/DolosaProject/blob/master/notebook/2_RemoveDuplicates.ipynb)
 
-[De novo assembly](https://github.com/juliofdiaz/DolosaProject/blob/master/notebook/3_deNovoAssembly.ipynb)
+[03 De novo assembly](https://github.com/juliofdiaz/DolosaProject/blob/master/notebook/3_deNovoAssembly.ipynb)
 
-[Remove Contamination](https://github.com/juliofdiaz/DolosaProject/blob/master/notebook/4_RemoveContamination.ipynb)
+[04 Remove Contamination](https://github.com/juliofdiaz/DolosaProject/blob/master/notebook/4_RemoveContamination.ipynb)
 
-[Sequencing Quality Control]()
+[05 Sequencing Quality Control]()
 
-[Genome Annotation]()
+[06 Genome Annotation]()
 
-[Reference Mapping]()
+[07 Reference Mapping]()
 
-[SNP Calling and Annotation]()
+[08 SNP Calling and Annotation]()
 
-[Indel Calling and Annotation]()
+[09 Indel Calling and Annotation]()
 
-[Plotting with Circos]()
+[10 Plotting with Circos]()
 
-[Nucleotide Diversity]()
+[11 Nucleotide Diversity]()
 
-[Phylogenetic Analysis]()
+[12 Phylogenetic Analysis]()
 
-[Structure Analysis]()
+[13 Structure Analysis]()
 
-[Plotting with Fishplot]()
+[14 Plotting with Fishplot]()
 
-[Splitstree Analysis]()
+[15 Splitstree Analysis]()
 
-[dN over dS Analysis]()
+[16 dN over dS Analysis]()
 
-[Plotting Antibiotic Resistance]()
+[17 Plotting Antibiotic Resistance]()
 
-[Genome Wide Association Study]()
+[18 Genome Wide Association Study]()
 
-[Genes Mutated at least Twice]()
+[19 Genes Mutated at least Twice]()
 
-[Orthologous Analysis]()
+[20 Orthologous Analysis]()
 
-[Depth of Coverage Analysis]()
+[21 Depth of Coverage Analysis]()
 
-[Plasmid Annotation]()
+[22 Plasmid Annotation]()
