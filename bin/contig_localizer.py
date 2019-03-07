@@ -38,12 +38,12 @@ with open(in_file) as file:
         coverage = info[2]
         circle = info[3]
 
-        if float(coverage) < 10:
+        if float(coverage) < int(sys.argv[2]):
             frame.append(contig)
         elif circle == "red":
             frame.append(contig)
      
-out_file = open(sys.argv[2], "w")
+out_file = open(sys.argv[3], "w")
 for item in frame:
     out_file.write(item+"\n")
 out_file.close()
